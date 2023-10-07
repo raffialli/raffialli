@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raffialli
-- 👀 I’m interested in NetDevOps
+- 👀 I’m interested in ML, AI, Cybersecurity, NetDevOps
 - 🌱 I’m currently learning: 
 --Terraform
 --Python
